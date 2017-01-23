@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+StephensViewTool::Renderer.copyright 'Tyler Stephens', 'All right reseverd'
+```
 
 ## Development
 
